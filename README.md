@@ -2,6 +2,6 @@
 paper2code notes
 
 ## Website
-[Paper2code Website](https://paper2code.com)
-[Paper2code Blog](https://paper2code.com/blog)
-[Paper2code Mashup](https://paper2code.com/mashup)
+[Website](https://paper2code.com)
+[Blog](https://paper2code.com/blog)
+[Mashup](https://paper2code.com/mashup)
